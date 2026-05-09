@@ -170,10 +170,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 👤 Contact
 
-**mohammed mostafa**
+**Mohammed Mostafa Mady**
 
-- LinkedIn: [(www.linkedin.com/in/mohammed-mostafa-mady]
-- GitHub: [@mohammedmostafa365]
+- LinkedIn: [www.linkedin.com/in/mohammed-mostafa-mady](https://www.linkedin.com/in/mohammed-mostafa-mady)
+- GitHub: [@mohammedmostafa365](https://github.com/mohammedmostafa365)
 - Email: mohammedmostafamady2004@gmail.com
 
 ---
